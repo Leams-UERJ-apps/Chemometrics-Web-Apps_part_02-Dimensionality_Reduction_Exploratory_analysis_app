@@ -21,42 +21,42 @@ This repository is the colection of all chemometrics apps developed by our group
       - Bartlett Sphericity Test
       - Kaiser–Meyer–Olkin Adequacy Test
     
-    -Homogeneity test
+    - Homogeneity test
       - Chi-square test
       - Fligner-Killeen’s Test
       - Levene’s Test
       - Bartlett homogeneity Test
     
-    -Outlier Test
+    - Outlier Test
       - Chi-squared test for outlier
       - Dixon tests for outlier
       - Grubbs tests for one or two outliers in data sample
       - Rosner's Test for Outliers
 
--Spectral Resolution Reduction
+- Spectral Resolution Reduction
 
--Filtering and compression
-	-Low-Variance Filter
-	-High Covariance Filter
-	-Wavelet Transform
+- Filtering and compression
+	- Low-Variance Filter
+	- High Covariance Filter
+	- Wavelet Transform
 
--Cluster Analysis
-	-Optimal Number of Cluster Analysis
-	-HCA
-	-K-Means
-	-Heatmap
-	-Correlation Heatmap
+- Cluster Analysis
+	- Optimal Number of Cluster Analysis
+	- HCA
+	- K-Means
+	- Heatmap
+	- Correlation Heatmap
 
--Exploratory Analysis
+- Exploratory Analysis
   - Parametric Methods
-    -Principal Component Analysis
-		-Robust PCA
-		-Factor Analysis
-		-Independent Component Analysis
+    - Principal Component Analysis
+		- Robust PCA
+		- Factor Analysis
+		- Independent Component Analysis
 	- Non-Parametric Methods
-		-Kernel PCA
-		-t-distributed stochastic neighbor embedding (t-SNE) 
-		-Non-parametric multidimensional scaling (MDS)
-		-Isomap
+		- Kernel PCA
+		- t-distributed stochastic neighbor embedding (t-SNE) 
+		- Non-parametric multidimensional scaling (MDS)
+		- Isomap
 
 - Others Web apps from LEAMS
