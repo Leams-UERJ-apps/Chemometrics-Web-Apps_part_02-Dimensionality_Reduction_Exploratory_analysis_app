@@ -20,11 +20,13 @@ This repository is the colection of all chemometrics apps developed by our group
     - Dimensionality reduction adequacy
       - Bartlett Sphericity Test
       - Kaiser–Meyer–Olkin Adequacy Test
+    
     -Homogeneity test
       - Chi-square test
       - Fligner-Killeen’s Test
       - Levene’s Test
       - Bartlett homogeneity Test
+    
     -Outlier Test
       - Chi-squared test for outlier
       - Dixon tests for outlier
