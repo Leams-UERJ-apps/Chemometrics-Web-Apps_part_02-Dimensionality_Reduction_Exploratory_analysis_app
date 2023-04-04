@@ -10,6 +10,8 @@ This repository is the colection of all chemometrics apps developed by our group
 - Aderval Luna (adsluna@gmail.com)
 
 ## Dimensionality_Reduction: Chemometrics R-Web App part 2 ![image](https://img.shields.io/badge/Version-DH--1.0-blueviolet)
+Manuscript link: https://www.sciencedirect.com/science/article/pii/S0169743923000606?dgcid=rss_sd_all
+
 - This app is currently available for online usage in [this link](https://leams-uerj-chemometrics.shinyapps.io/Dimensionality_reduction_app/)
 - Complete change log can be seen inside the code
  - Please answer this [questionnaire](https://docs.google.com/forms/d/1js1Wyf81-8oG6u2w3F9lswMV3MUjX6srkBYWkkOj7Zw/edit?ts=633b6a1f) to help us improve the interface
